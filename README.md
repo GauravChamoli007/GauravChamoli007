@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GauravChamoli007
+- 👋 Hi, I’m Gaurav Chamoli
 - 👀 I’m a data enthusiast navigating the vast seas of information with my trusty compass - Python and R. 📊 Whether it's deciphering trends, crafting compelling visualizations, or uncovering hidden insights, I'm always on the hunt for the next data-driven adventure. 🔍 From crunching numbers to telling stories with data, I thrive on turning raw information into actionable intelligence. 💡
 - 🌱 I’m currently learning Generative AI and LLM
 - 💞️ I’m looking to collaborate on data science projects. Let's collaborate and transform data into gold! 🌟
